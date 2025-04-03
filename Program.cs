@@ -4,6 +4,8 @@ namespace main.cs
 {
     class Program
     {
-        staticz
-
+        Satic void Main(string[] args)
+        {
+            console.WriteLine("Hello! GitHub! je m appelle Neima")
+        }
     }
