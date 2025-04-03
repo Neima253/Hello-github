@@ -1,0 +1,14 @@
+C:\Users\ninam\OneDrive\Bureau\main.cs\bin\Debug\net9.0\main.cs.exe
+C:\Users\ninam\OneDrive\Bureau\main.cs\bin\Debug\net9.0\main.cs.deps.json
+C:\Users\ninam\OneDrive\Bureau\main.cs\bin\Debug\net9.0\main.cs.runtimeconfig.json
+C:\Users\ninam\OneDrive\Bureau\main.cs\bin\Debug\net9.0\main.cs.dll
+C:\Users\ninam\OneDrive\Bureau\main.cs\bin\Debug\net9.0\main.cs.pdb
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\main.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\main.cs.AssemblyInfoInputs.cache
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\main.cs.AssemblyInfo.cs
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\main.cs.csproj.CoreCompileInputs.cache
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\main.cs.dll
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\refint\main.cs.dll
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\main.cs.pdb
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\main.cs.genruntimeconfig.cache
+C:\Users\ninam\OneDrive\Bureau\main.cs\obj\Debug\net9.0\ref\main.cs.dll
